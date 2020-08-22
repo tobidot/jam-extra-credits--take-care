@@ -1,0 +1,13 @@
+{
+  "name": "extra_credits-take_care",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "tobidot <Object.name@live.de>",
+  "license": "MIT",
+  "dependencies": {
+    "parcel": "^1.12.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-semantic-ui": "^0.2.0"
+  }
+}
